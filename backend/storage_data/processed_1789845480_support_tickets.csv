@@ -1,0 +1,5 @@
+TicketID,CustomerEmail,IssueDescription,AssignedTo
+TCK-100,angry@customer.com,System crashed on checkout,DevTeam
+TCK-101,confused@user.net,How do I reset password?,Support_L1
+TCK-102,billing@company.com,Invoice is incorrect for May,Finance
+TCK-103,vip@enterprise.org,Need custom integration ASAP,Engineering

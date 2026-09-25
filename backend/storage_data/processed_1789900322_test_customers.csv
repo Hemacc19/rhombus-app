@@ -1,0 +1,6 @@
+id,first_name,last_name,email,phone,ssn
+1,John,Doe,john.doe@example.com,XXX-XX-0101,000-11-2222
+2,Jane,Smith,jane.smith@example.com,XXX-XX-0102,000-11-3333
+3,Alice,Johnson,alice.j@example.com,XXX-XX-0103,000-11-4444
+4,Bob,Williams,bob.w@company.com,XXX-XX-0104,000-11-5555
+5,Charlie,Brown,charlie.b@test.org,XXX-XX-0105,000-11-6666

@@ -1,0 +1,5 @@
+TicketID,CustomerEmail,IssueDescription,AssignedTo
+TCK-100,angry@customer.com,,DevTeam
+TCK-101,confused@user.net,,Support_L1
+TCK-102,billing@company.com,,Finance
+TCK-103,vip@enterprise.org,,Engineering

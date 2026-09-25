@@ -1,0 +1,5 @@
+TxHash,WalletAddress,AmountBTC,Status
+0x1a2b3c...,,1.5,CONFIRMED
+0x9f8e7d...,,50.0,PENDING
+0x4b5c6d...,,0.005,FAILED
+0x7a8b9c...,,10.2,CONFIRMED

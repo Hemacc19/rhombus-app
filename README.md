@@ -67,8 +67,8 @@ To handle massive datasets efficiently, PySpark dynamic partitioning is implemen
 
 ## 🚀 Deliverables & Demo
 
-* **Live Deployment URL:** [Insert Railway Live URL Here]
-* **Demo Video:** [Watch the Platform Demonstration](https://drive.google.com/file/d/12Zwws1GBYi_S3-rMNRVVigSo2IwKaqjV/view?usp=drive_link)
+* **Live Deployment URL:** [https://rhombus-app.onrender.com]
+* **Demo Video:** [https://drive.google.com/file/d/12Zwws1GBYi_S3-rMNRVVigSo2IwKaqjV/view?usp=drive_link]
 
 ## 🛡️ Security & Compliance
 This platform was built with strict data privacy in mind. Features like the PII Redaction Suite are non-destructive when required, isolating changes dynamically so original raw data is preserved while generating compliant datasets for data science and third-party analysis.
